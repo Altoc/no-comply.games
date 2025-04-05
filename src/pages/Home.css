@@ -1,0 +1,49 @@
+.home-container {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+.intro-section, .about-me-section, .skills-section, .hobbies-section {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.headshot {
+  border-radius: 50%;  /* Ensures the image is circular */
+  width: 200px;        /* Sets the width of the image */
+  height: 200px;       /* Sets the height of the image to match the width */
+  margin-bottom: 1rem; /* Adds some space below the image */
+  object-fit: cover;   /* Ensures the image covers the area without being distorted */
+}
+
+.buttons, .btn {
+  margin-top: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  background-color: #007bff;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.skills-list, .hobbies-list {
+  list-style: none;
+  padding: 0;
+}
+
+.skills-list li, .hobbies-list li {
+  margin: 0.5rem 0;
+}
