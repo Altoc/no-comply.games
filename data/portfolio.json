@@ -1,0 +1,107 @@
+[
+  {
+    "id": 5,
+    "title": "This Website!",
+    "description": "This website was made with React, typescript, and love, by yours truly.",
+    "link": "https://www.ianwhitesel.com",
+    "technologies": "Web dev, React, Typescript, love"
+  },
+  {
+    "id": 1,
+    "title": "FEEET",
+    "description": "FEEET is a unique and quirky pipe-game / virtual novel that immerses you in a world of fascinating creatures shaped like feet. Embark on an adventure filled with whimsical challenges and engaging storytelling as you explore the delightful and strange universe of FEEET. Perfect for fans of innovative gameplay and captivating narratives, FEEET promises a memorable and entertaining experience unlike any other.",
+    "link": "https://store.steampowered.com/app/1513640/FEEET/",
+    "technologies": "Video Game, C++, SDL2"
+  },
+  {
+    "id": 6,
+    "title": "Psypet Editor",
+    "description": "This is a dev tool I made to manage database data for a (potentially) defunct game project, PSYPET",
+    "link": "https://github.com/Altoc/psypet_editor",
+    "technologies": "Application, python, CRUD"
+  },
+  {
+    "id": 7,
+    "title": "Death Counter",
+    "description": "This is a quick python application created for some of my streamer friends to count their in-game deaths in Elden Ring",
+    "link": "https://github.com/Altoc/death-counter",
+    "technologies": "Application, python, CRUD"
+  },
+  {
+    "id": 9,
+    "title": "Sort Visualizer",
+    "description": "This is a fun side project I did where I attached different sorting algorithms to a visualized front-end to display their beauty.",
+    "link": "https://github.com/Altoc/sort-visualizer",
+    "technologies": "Application, python, sorting, tkinter"
+  },
+  {
+    "id": 10,
+    "title": "Wake Up Every Day Bot",
+    "description": "Wake Up Every Day Bot was a Twitter (now X) bot that ran on my home server. It would post a funny, relatable gif every morning at 8am.",
+    "link": "https://github.com/Altoc/wake-up-everday-bot",
+    "technologies": "Webservice, bot, Twitter, python"
+  },
+  {
+    "id": 11,
+    "title": "Tweetcord",
+    "description": "Tweetcord was a Discord bot that would pull different pieces of content from Twitter, at the behest of discord commands.",
+    "link": "https://github.com/Altoc/tweetcord",
+    "technologies": "Webservice, bot, Twitter, Discord, python"
+  },
+  {
+    "id": 12,
+    "title": "Music Player",
+    "description": "This was a purpose-built music player I made for in-person D&D sessions with my friends. Allowed easy-to-control access to pre-loaded soundtracks for the DM to control.",
+    "link": "https://github.com/Altoc/music-player",
+    "technologies": "Application, C++, SDL2"
+  },
+  {
+    "id": 13,
+    "title": "Tower of Hanoi",
+    "description": "Tower of Hanoi is an old puzzle, used to test humans, toddlers, and apes alike. Within this repository is a C++, Java, and JS version.",
+    "link": "https://github.com/Altoc/TowerOfHanoi",
+    "technologies": "Application, C++, Javascript, Java"
+  },
+  {
+    "id": 15,
+    "title": "Anti-Social Mode",
+    "description": "A World of Warcraft addon. This addon toggles Anti-Social Mode, an operating mode that politing whispers back solicitors that you are not currently in a talking mood.",
+    "link": "https://github.com/Altoc/Anti-Social-Mode",
+    "technologies": "Game Mod, World of Warcraft, Lua"
+  },
+  {
+    "id": 2,
+    "title": "Summer Summer Summer Time (SAIC 1 entry)",
+    "description": "Summer Summer Summer Time is an engaging and delightful game that captures the essence of summertime fun and adventure. Immerse yourself in a world full of sun, sand, and exciting challenges that will keep you entertained for hours.",
+    "link": "https://altoc.itch.io/summer-summer-summer-time",
+    "technologies": "Video Game, Godot, GDscript, pixel art"
+  },
+  {
+    "id": 3,
+    "title": "Lonely Winter (SAIC 2 entry)",
+    "description": "Lonely Winter is a captivating game that takes you on a journey through a cold and solitary landscape. Explore the beauty and challenges of winter as you navigate through this deeply emotional and immersive experience.",
+    "link": "https://altoc.itch.io/lonely-winter",
+    "technologies": "Video Game, Godot, GDscript, 3D Modeling, Blender"
+  },
+  {
+    "id": 4,
+    "title": "Katamario",
+    "description": "Katamario (SAIC 3 entry) is an exciting and imaginative game that combines the best elements of creativity and strategy. Roll your way through various levels, collect items, and experience the unique charm of the Katamario universe.",
+    "link": "https://altoc.itch.io/katamario-saic-3",
+    "technologies": "Video Game, Godot, GDscript, 3D Modeling, Blender"
+  },
+  {
+    "id": 8,
+    "title": "HomeHub 1.0",
+    "description": "This is a now deprecated version of my HomeHub project, back when it was a native running python application. HomeHub is now developed for the web.",
+    "link": "https://github.com/Altoc/homehub",
+    "technologies": "Application, python, CRUD"
+  },
+  {
+    "id": 14,
+    "title": "Random Name Generator",
+    "description": "Quick, fun little name generator for character creators in video games.",
+    "link": "https://github.com/Altoc/Random-Name-Generator",
+    "technologies": "Application, C++"
+  }
+]
