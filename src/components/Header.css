@@ -1,0 +1,44 @@
+  .header {
+    background-color: #0f0f0f;
+    color: white;
+    padding: 1.5rem 1rem;
+    border-bottom: 1px solid #222;
+  }
+
+  .header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.5px;
+  }
+  
+  .header nav {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  
+  .header nav a {
+    color: #ccc;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+  }
+  
+  .header nav a:hover {
+    color: white;
+  }
+  
+  .header-brand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .header-logo {
+    height: 40px;
+    width: 40px;
+  }
+  

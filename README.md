@@ -1,0 +1,1 @@
+`npm run deploy` will run a cli script and auto deploy to the gh-pages branch. gh actions will take it from there and deploy the site.

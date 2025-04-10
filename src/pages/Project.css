@@ -1,0 +1,39 @@
+.project {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4rem 1rem;
+  min-height: 80vh;
+  text-align: center;
+}
+
+.project-content {
+  max-width: 700px;
+}
+
+.project h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.project p {
+  font-size: 1.125rem;
+  margin-bottom: 1rem;
+  color: #ccc;
+}
+
+.project-buttons a {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #111;
+  color: white;
+  border: 2px solid white;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.project-buttons a:hover {
+  background-color: white;
+  color: #111;
+}

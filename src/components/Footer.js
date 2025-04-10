@@ -1,24 +1,19 @@
 import React from 'react';
-import "./Footer.css";
+import './Footer.css';
 
 export default function Footer() {
   return (
-    <>
-      <footer className="footer">
-        <p>&copy; 2024 Ian Whitesel</p>
-        <div className="footer-links">
-          <a href="https://github.com/altoc" target="_blank" rel="noopener noreferrer">
-            GitHub
-          </a>
-          <a href="https://www.linkedin.com/in/ian-whitesel-76ba40149/" target="_blank" rel="noopener noreferrer">
-            LinkedIn
-          </a>
-          <a href="https://altoc.itch.io/" target="_blank" rel="noopener noreferrer">
-            Itch.io
-          </a>
-          <p>ianwhitesel97@gmail.com</p>
-        </div>
-      </footer>
-    </>
+    <footer className="footer">
+      <p>&copy; 2024 No Comply Games</p>
+      <div className="footer-links">
+        <a href="https://twitter.com/YOUR_HANDLE" target="_blank" rel="noopener noreferrer">
+          Twitter
+        </a>
+        <a href="https://altoc.itch.io/" target="_blank" rel="noopener noreferrer">
+          Itch.io
+        </a>
+        <a href="mailto:youremail@nocomply.games">youremail@nocomply.games</a>
+      </div>
+    </footer>
   );
 }

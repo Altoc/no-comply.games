@@ -1,26 +1,23 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Routes, Navigate  } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
-import Portfolio from './pages/Portfolio';
+import Project from './pages/Project';
+import About from './pages/About';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Contact from './pages/Contact';
 
 export default function App() {
   return (
-    <>
     <Router>
-      <Header/>
+      <Header />
       <main>
         <Routes>
-          <Route path='/' element={<Navigate to="/personal-site" />} />
-          <Route path='/personal-site' element={<Home/>} />
-          <Route path='/personal-site/portfolio' element={<Portfolio/>} />
-          <Route path='/personal-site/contact' element={<Contact/>} />
+          <Route path='/' element={<Home />} />
+          <Route path='/project' element={<Project />} />
+          <Route path='/about' element={<About />} />
         </Routes>
       </main>
-      <Footer/>
+      <Footer />
     </Router>
-    </>
-  )
+  );
 }
